@@ -4,6 +4,8 @@ import pandas as pd
 import time
 from selenium import webdriver
 
+#동적 크롤링 - BeautifulSoup 사용 - 크롤링 후 저장된 데이터값 범위 엑셀을 이용하여 오름차순 정렬
+
 def getTopMartStoreInfo(result):
     # USB: usb_device_handle_win.cc:1049 시스템에 부착된 장치가 작동하지 않습니다.
     options = webdriver.ChromeOptions()
