@@ -5,6 +5,8 @@ import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+#정적 크롤링 - XPATH 사용
+
 def getLotteStoreInfo(result):
 
 
