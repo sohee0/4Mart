@@ -8,7 +8,7 @@
      - 롯데마트의 26%는 경기도, 12%는 서울 -> 38%가 수도권에 집중
      - 홈플러스 23%는 경기도, 14%는 서울 -> 37%가 수도권에 집중
      - 탑마트는 경상남도,경상북도,부산광역시,울산광역시,대구광역시에만 존재. 
-       총 77개의 점포중 44%는 경상남도, 33%는 부산
+       총 77개의 점포중 44%는 경상남도, 33%는 부산에 입점되어있음을 확인.
 
 
 
@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 
 ### Tools
-
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
         
