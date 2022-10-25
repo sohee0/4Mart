@@ -1,4 +1,4 @@
-## 4Mart
+# 4Mart
 - 주제 : 전국 대형마트 입점 현황
 
 - 목적 : 대표 대형마트(4개점)의 입점 현황을 토대로 전국 분포 현황을 파악하여 지도 및 차트로 시각화.
@@ -12,7 +12,7 @@
 
 
 
-### 데이터 수집 방법
+## 데이터 수집 방법
 - 크롤링
      - Selenium,BeautifulSoup 을 사용하여 웹사이트 크롤링
       -> 롯데마트,이마트,홈플러스,탑마트
@@ -20,7 +20,7 @@
      - 프로그램을 동작시켜 위/경도 값을 도출.
 
 
-### 수집 데이터 분석
+## 수집 데이터 분석
 - Seaborn 
      - countplot
 - matplolib
@@ -29,9 +29,14 @@
 - scipy
      - corr 
           
-### 시각화
+## 시각화
 - Folium
      - marker,blockmap
+
+### Stacks
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+
+### Tools
 
 
         
