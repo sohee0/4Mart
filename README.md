@@ -11,6 +11,9 @@
        총 77개의 점포중 44%는 경상남도, 33%는 부산에 입점되어있음을 확인.
 
 
+![서울,경기](https://user-images.githubusercontent.com/108312161/197683750-e9205f3f-a992-4a20-b66b-bee5fafbc9be.png)
+
+![부산,경남(탑)](https://user-images.githubusercontent.com/108312161/197683774-638ab783-3598-4724-a553-30dfae5e6299.png)
 
 ## 데이터 수집 방법
 - 크롤링
